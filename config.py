@@ -1,0 +1,3 @@
+GRID_SIZE = 10
+EPISODES = 500
+
