@@ -2,7 +2,7 @@
 
 This project simulates an AI-driven robot navigating a warehouse grid to optimize item picking using Reinforcement Learning.
 
-![demo](https://user-images.githubusercontent.com/example/demo.gif)
+<img width="622" height="659" alt="Screenshot 2025-07-13 091336" src="https://github.com/user-attachments/assets/cd3e81ea-54bc-449d-be70-b9894a9fe694" />
 
 ## 🚀 Features
 
